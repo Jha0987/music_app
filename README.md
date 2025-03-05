@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Music Player Application
 It is a small music player web app using the MERN stack (MongoDB, Express, React, Node.js). The app should allow users to sign up, sign in, select songs from a library, create playlists, play songs, and resume songs from where they left off.
 
@@ -113,3 +114,6 @@ It is a small music player web app using the MERN stack (MongoDB, Express, React
 
 
 
+=======
+# music_app
+>>>>>>> 3fe27382ddf7bbf3aad80209ed37df5d4a30745a
